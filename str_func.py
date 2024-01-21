@@ -7,3 +7,6 @@ def to_titlecase(input_string):
     """Делает заглавными первые буквы каждого слва"""
     return input_string.title()
 
+
+
+
